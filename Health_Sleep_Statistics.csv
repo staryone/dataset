@@ -1,4 +1,4 @@
-user_id,age,gender,sleep_quality,bedtime,wakeup_time,daily_steps,calories_burned,physical_activity_level,dietary_habits,sleep_disorders,medication_usage
+user_id,age,gender,sleep_quality,bedtime,wakeup_time,daily_steps,calories_burned,physical_activity,dietary_habits,sleep_disorders,medication_usage
 1,25,f,8,23:00,6:30,8000,2500,medium,healthy,no,no
 2,34,m,7,0:30,7:00,5000,2200,low,unhealthy,yes,yes
 3,29,f,9,22:45,6:45,9000,2700,high,healthy,no,no
